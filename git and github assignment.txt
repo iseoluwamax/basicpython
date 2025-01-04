@@ -1,0 +1,11 @@
+git and GitHub assignment.
+
+moving forward, all your assignment will be submitted using GitHub.
+for all that we have talked about so far, it will be in one repo called 
+basicpython
+
+Secondly, each assignment topic will be in it's own folder, for example:
+all assignments on functions will be in a folder called functions. All assignment on conditional statements will be on a folder called conditional statements.
+Please note: there can be sub folders as well, that is; folder within a folder. Example:
+In a topic called data structures, we will talk about lists, tuples, dictionaries and sets. all assignment will be in their own folder, which is inside data structures.
+Finally, all folders must have a readme file which will describe what it does, using markdown.
