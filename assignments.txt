@@ -1,0 +1,11 @@
+HHplease note, except I say otherwise, all assignment will be on their own files and folders as usual.
+1. Write a python file that takes 1 argument [name]. When run, it will greet name good morning, afternoon, evening etc according to current time..
+2. Write a python program that prints out all even numbers between 1 to 100
+3. Write a python program that takes any number of arguments [numbers], and adds those numbers together. Study the built-in function sum(). But don't use it. Rather implement your own, and it should be called [sum_of_numbers]
+4. Inside the datetime module, there is a way to tell the differences between 2 dates, find that function and write a python function called [between_dates], that takes 2 argument: [start_date, and end_date], and returns their differences.
+5. Write a python programs that counts down from 100 to 0, for every 25 percent, it should print the number and say "we are so so percent there." For example: 75, we are 25% there. 1, we are 99 % there. 80, we are 20% there. Remember, only interval of 25% should be printed.
+6. Define a python function called [is_valid_nin]. That accept 1 argument [nin], that: checks if the nin entered is an integer, not less or more than 11 in length, then returns True if all criteria are met. If the nin is less than 11, tell the user so. if it's greater, also do same. However if the nin is not an integer, raise an exception.
+7. Please study python enhancement proposals, start here: https://peps.python.org/pep-0001/#:~:text=PEP%20stands%20for%20Python%20Enhancement,a%20rationale%20for%20the%20feature.
+you are to study pep 8, pip 20 and pep 257. All your code moving forward will be checked against pip 8's guidelines.
+all assignments must be ready and pushed to GitHub by the 15th of February.
+Good luck.
